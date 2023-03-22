@@ -1,0 +1,6 @@
+F:\testJun\test\ShapeLibrary\bin\Debug\ShapeLibrary.dll
+F:\testJun\test\ShapeLibrary\bin\Debug\ShapeLibrary.pdb
+F:\testJun\test\ShapeLibrary\obj\Debug\ShapeLibrary.csproj.AssemblyReference.cache
+F:\testJun\test\ShapeLibrary\obj\Debug\ShapeLibrary.csproj.CoreCompileInputs.cache
+F:\testJun\test\ShapeLibrary\obj\Debug\ShapeLibrary.dll
+F:\testJun\test\ShapeLibrary\obj\Debug\ShapeLibrary.pdb
